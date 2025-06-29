@@ -4,4 +4,4 @@
 ##Все данные взяты с дотабаффа, там мы отметили «за всё время», но не брали такие предметы, которые уже удалены из игры и находятся ещё ниже
 
 Расскажите, что, на ваш взгляд, не так с этими предметами, на самые интересные ответы ответит наш 11к тренер по Доте
-e:\slimmpage\74FhKZG7GVmcNy7r1sOfI9pcdrRRPTmXkKv3jJhTs8p9chyPgr2CBl-iRW_R9k519f2usInUvkHQsxYxT3BuVDF_.jpg
+[e:\slimmpage\74FhKZG7GVmcNy7r1sOfI9pcdrRRPTmXkKv3jJhTs8p9chyPgr2CBl-iRW_R9k519f2usInUvkHQsxYxT3BuVDF_.jpg](https://upload.wikimedia.org/wikipedia/ru/thumb/8/8e/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_Dota_2.jpg/330px-%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_Dota_2.jpg)
