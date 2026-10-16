@@ -1,6 +1,5 @@
 const bubble=document.querySelector('.bubble');
 const line=document.querySelector('#line');
-const speaker=document.querySelector('.speaker');
 const next=document.querySelector('#next');
 const stage=document.querySelector('.stage');
 const lineSizing=document.querySelector('#line-sizing');
@@ -19,7 +18,10 @@ const dialogue=[
  {speaker:'Г',text:'Плохо себя ведёшь',side:'right'},
  {speaker:'Я',text:'Извините',side:'left'},
  {speaker:'Г',text:'Юра!!! Жопу Притащил',side:'right'},
- {speaker:'Я',text:'Бегуууу',side:'left'}
+ {speaker:'Я',text:'Бегуууу',side:'left'},
+ {speaker:'Я',text:'ноги лизать не буду',side:'left'},
+ {speaker:'Г',text:'Будешь',side:'right'},
+ {speaker:'Я',text:'лана',side:'left'}
 ];
 let dialogueIndex=0;
 let timer=null;
@@ -37,7 +39,6 @@ function showLine(){
  fullText=currentLine.text;
  bubble.setAttribute('aria-busy','true');
  bubble.className='bubble '+currentLine.side;
- speaker.textContent=currentLine.speaker;
  lineSizing.textContent=fullText;
  progress.textContent=`${dialogueIndex+1} / ${dialogue.length}`;
  yuraCharacter.classList.remove('speaking');

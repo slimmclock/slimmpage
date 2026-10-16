@@ -23,7 +23,6 @@ h1{font:400 clamp(30px,5vw,46px) Georgia,serif;letter-spacing:-1px;margin:8px 0 
 .bubble.left{--bubble-color:#eeecff;top:13%;left:4%;border-color:#b6aed4;transform-origin:30% 100%}
 .bubble:after{content:'';position:absolute;top:100%;left:30%;border:10px solid transparent;border-top:15px solid var(--bubble-color);border-bottom:0}
 .bubble.right:after{left:48%}
-.speaker{display:block;color:#745569;font-size:9px;letter-spacing:2px;margin-bottom:5px}
 .line-wrap{display:grid;min-width:0}
 #line-sizing,#line{grid-area:1/1;white-space:pre-wrap}
 #line-sizing{visibility:hidden}
@@ -49,7 +48,6 @@ button{min-width:112px;min-height:44px;border:1px solid #654b43;border-radius:30
  .bubble{max-width:47%;padding:10px 12px;border-radius:14px;font-size:clamp(13px,3.6vw,19px)}
  .bubble.right{top:3%;right:3%}
  .bubble.left{top:11%;left:3%}
- .speaker{font-size:8px;letter-spacing:1px;margin-bottom:3px}
  .bubble:after{border-left-width:8px;border-right-width:8px;border-top-width:12px}
  .controls{margin-top:14px;gap:10px}
  .hint{font-size:11px;text-align:center}
